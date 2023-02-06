@@ -4,5 +4,9 @@
  cd commit_learning/
  mv styles.css index.html
  git add .
+ git commit -m "updated css"
+ git push
+ git add .
  git commit -m "moved files into repo and updated html"
  git push
+ git revert 
