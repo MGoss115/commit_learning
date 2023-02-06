@@ -9,4 +9,4 @@
  git add .
  git commit -m "moved files into repo and updated html"
  git push
- git revert 
+ git revert 25d8cf247864211718590c8fe02c06caeacfe032
