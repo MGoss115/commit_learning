@@ -1,3 +1,8 @@
  mkdir test
  touch index.html styles.css
  git clone https://github.com/MGoss115/commit_learning.git
+ cd commit_learning/
+ mv styles.css index.html
+ git add .
+ git commit -m "moved files into repo and updated html"
+ git push
